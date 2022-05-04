@@ -1,1 +1,1 @@
-#Readme page for JavaScript powered Countdown Clock
+# Countdown-Clock Powered by JavaScript
